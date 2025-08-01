@@ -1,0 +1,3 @@
+Company,Variable,Value,method_tag,calc,source_link
+Carbyon,capex_per_t_usd,19000,power_law_0.6_CPI_1.11,"Solid DAC analog: $1000/t @1Mt, scaled to 1kt 0.6 power-law, CPI 1.11",https://www.sciencedirect.com
+Mission Zero,capex_per_t_usd,2900,power_law_0.6_CPI_1.11,"Liquid DAC analog: $150/t @1Mt, scaled to 1kt 0.6 power-law, CPI 1.11",https://www.sciencedirect.com

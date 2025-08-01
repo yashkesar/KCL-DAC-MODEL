@@ -1,0 +1,113 @@
+scenario_id,Company,f_45q,f_lcfs,f_grant,f_offtake,f_debt_high
+4_00000,Climeworks,0,0,0,0,0
+4_00001,Climeworks,0,0,0,0,1
+4_00010,Climeworks,0,0,0,1,0
+4_00011,Climeworks,0,0,0,1,1
+4_00100,Climeworks,0,0,1,0,0
+4_00101,Climeworks,0,0,1,0,1
+4_00110,Climeworks,0,0,1,1,0
+4_00111,Climeworks,0,0,1,1,1
+1_00000,Carbon Engineering,0,0,0,0,0
+1_00001,Carbon Engineering,0,0,0,0,1
+1_00010,Carbon Engineering,0,0,0,1,0
+1_00011,Carbon Engineering,0,0,0,1,1
+1_00100,Carbon Engineering,0,0,1,0,0
+1_00101,Carbon Engineering,0,0,1,0,1
+1_00110,Carbon Engineering,0,0,1,1,0
+1_00111,Carbon Engineering,0,0,1,1,1
+1_10000,Carbon Engineering,1,0,0,0,0
+1_10001,Carbon Engineering,1,0,0,0,1
+1_10010,Carbon Engineering,1,0,0,1,0
+1_10011,Carbon Engineering,1,0,0,1,1
+1_10100,Carbon Engineering,1,0,1,0,0
+1_10101,Carbon Engineering,1,0,1,0,1
+1_10110,Carbon Engineering,1,0,1,1,0
+1_10111,Carbon Engineering,1,0,1,1,1
+6_00000,Heirloom,0,0,0,0,0
+6_00001,Heirloom,0,0,0,0,1
+6_00010,Heirloom,0,0,0,1,0
+6_00011,Heirloom,0,0,0,1,1
+6_00100,Heirloom,0,0,1,0,0
+6_00101,Heirloom,0,0,1,0,1
+6_00110,Heirloom,0,0,1,1,0
+6_00111,Heirloom,0,0,1,1,1
+6_10000,Heirloom,1,0,0,0,0
+6_10001,Heirloom,1,0,0,0,1
+6_10010,Heirloom,1,0,0,1,0
+6_10011,Heirloom,1,0,0,1,1
+6_10100,Heirloom,1,0,1,0,0
+6_10101,Heirloom,1,0,1,0,1
+6_10110,Heirloom,1,0,1,1,0
+6_10111,Heirloom,1,0,1,1,1
+2_00000,CarbonCapture Inc.,0,0,0,0,0
+2_00001,CarbonCapture Inc.,0,0,0,0,1
+2_00010,CarbonCapture Inc.,0,0,0,1,0
+2_00011,CarbonCapture Inc.,0,0,0,1,1
+2_00100,CarbonCapture Inc.,0,0,1,0,0
+2_00101,CarbonCapture Inc.,0,0,1,0,1
+2_00110,CarbonCapture Inc.,0,0,1,1,0
+2_00111,CarbonCapture Inc.,0,0,1,1,1
+2_10000,CarbonCapture Inc.,1,0,0,0,0
+2_10001,CarbonCapture Inc.,1,0,0,0,1
+2_10010,CarbonCapture Inc.,1,0,0,1,0
+2_10011,CarbonCapture Inc.,1,0,0,1,1
+2_10100,CarbonCapture Inc.,1,0,1,0,0
+2_10101,CarbonCapture Inc.,1,0,1,0,1
+2_10110,CarbonCapture Inc.,1,0,1,1,0
+2_10111,CarbonCapture Inc.,1,0,1,1,1
+5_00000,Global Thermostat,0,0,0,0,0
+5_00001,Global Thermostat,0,0,0,0,1
+5_00010,Global Thermostat,0,0,0,1,0
+5_00011,Global Thermostat,0,0,0,1,1
+5_00100,Global Thermostat,0,0,1,0,0
+5_00101,Global Thermostat,0,0,1,0,1
+5_00110,Global Thermostat,0,0,1,1,0
+5_00111,Global Thermostat,0,0,1,1,1
+5_10000,Global Thermostat,1,0,0,0,0
+5_10001,Global Thermostat,1,0,0,0,1
+5_10010,Global Thermostat,1,0,0,1,0
+5_10011,Global Thermostat,1,0,0,1,1
+5_10100,Global Thermostat,1,0,1,0,0
+5_10101,Global Thermostat,1,0,1,0,1
+5_10110,Global Thermostat,1,0,1,1,0
+5_10111,Global Thermostat,1,0,1,1,1
+7_00000,Mission Zero,0,0,0,0,0
+7_00001,Mission Zero,0,0,0,0,1
+7_00010,Mission Zero,0,0,0,1,0
+7_00011,Mission Zero,0,0,0,1,1
+9_00000,Sustaera,0,0,0,0,0
+9_00001,Sustaera,0,0,0,0,1
+9_00010,Sustaera,0,0,0,1,0
+9_00011,Sustaera,0,0,0,1,1
+9_00100,Sustaera,0,0,1,0,0
+9_00101,Sustaera,0,0,1,0,1
+9_00110,Sustaera,0,0,1,1,0
+9_00111,Sustaera,0,0,1,1,1
+8_00000,Spiritus,0,0,0,0,0
+8_00001,Spiritus,0,0,0,0,1
+8_00010,Spiritus,0,0,0,1,0
+8_00011,Spiritus,0,0,0,1,1
+8_00100,Spiritus,0,0,1,0,0
+8_00101,Spiritus,0,0,1,0,1
+8_00110,Spiritus,0,0,1,1,0
+8_00111,Spiritus,0,0,1,1,1
+8_10000,Spiritus,1,0,0,0,0
+8_10001,Spiritus,1,0,0,0,1
+8_10010,Spiritus,1,0,0,1,0
+8_10011,Spiritus,1,0,0,1,1
+8_10100,Spiritus,1,0,1,0,0
+8_10101,Spiritus,1,0,1,0,1
+8_10110,Spiritus,1,0,1,1,0
+8_10111,Spiritus,1,0,1,1,1
+3_00000,Carbyon,0,0,0,0,0
+3_00001,Carbyon,0,0,0,0,1
+3_00010,Carbyon,0,0,0,1,0
+3_00011,Carbyon,0,0,0,1,1
+10_00000,Verdox,0,0,0,0,0
+10_00001,Verdox,0,0,0,0,1
+10_00010,Verdox,0,0,0,1,0
+10_00011,Verdox,0,0,0,1,1
+10_00100,Verdox,0,0,1,0,0
+10_00101,Verdox,0,0,1,0,1
+10_00110,Verdox,0,0,1,1,0
+10_00111,Verdox,0,0,1,1,1
